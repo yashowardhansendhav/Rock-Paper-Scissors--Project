@@ -43,4 +43,16 @@ The project also includes different difficulty levels, score tracking and game h
 4. Run:
 
 ```text
+## Testing
+
+The project can be tested using the test cases provided in `testing.md`.
+
+To test the game:
+
+1. Run the program using `py main.py`.
+2. Enter different valid choices such as rock, paper, or scissors.
+3. Test Easy, Medium and Hard difficulty levels.
+4. Test multiple rounds and check the score.
+5. Enter invalid inputs to check input validation.
+6. Check the game history after playing.
 py main.py
